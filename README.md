@@ -39,3 +39,11 @@ The project helps to evaluates your skills as a developer. You will be evaluated
 The evaluation of your project will also be influenced by how much you are able to create an **esthetically pleasing** & **easy-to-use** platform.
 
 Every other **features** or **bonuses** implemented **will taken into consideration** in the evaluation of your project.
+
+
+Good luck !
+
+
+## Authors
+
+Thomas Michel - @pr0m3th3usEx

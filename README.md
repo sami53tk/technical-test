@@ -24,9 +24,10 @@ Any of your data will be stored in a **database**, which will be connected to yo
 
 ## Delivery
 
-You have **one week** since you received the notice of the interview to finish the project. It will be tested and the code will be reviewed.
+You have all the time until the interview to finish the project. It will be tested and the code will be reviewed.
 
-The project will be delivered through a **Github repository**.
+The project will be delivered through a **Github repository** public on your account. You must send an email with the link of your repository and the instruction to run the project.
+
 
 We strongly recommend to use Docker to ease the execution of your project. If you don't follow this recommendation, you shall send a document of your Github repository.
 
@@ -35,6 +36,8 @@ You are free to deploy your project to a web hosting provider.
 ## Evaluation
 
 The project helps to evaluates your skills as a developer. You will be evaluated on the technical quality of your project as well as the practices you use as developer.
+
+IMPORTANT !!! Make the maximum you can do. Doing everything but bad is not as good as doing less but properly !
 
 The evaluation of your project will also be influenced by how much you are able to create an **esthetically pleasing** & **easy-to-use** platform.
 

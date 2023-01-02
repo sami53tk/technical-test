@@ -29,7 +29,7 @@ You have all the time until the interview to finish the project. It will be test
 The project will be delivered through a **Github repository** public on your account. You must send an email with the link of your repository and the instruction to run the project.
 
 
-We strongly recommend to use Docker to ease the execution of your project. If you don't follow this recommendation, you shall send a document of your Github repository.
+We strongly recommend to use **Docker** to ease the execution of your project. If you don't follow this recommendation, you shall send a document of your Github repository.
 
 You are free to deploy your project to a web hosting provider.
 

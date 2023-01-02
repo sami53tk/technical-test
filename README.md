@@ -35,9 +35,9 @@ You are free to deploy your project to a web hosting provider.
 
 ## Evaluation
 
-The project helps to evaluates your skills as a developer. You will be evaluated on the technical quality of your project as well as the practices you use as developer.
+The project helps to evaluate your skills as a developer. You will be evaluated on the technical quality of your project as well as the practices of development you use.
 
-IMPORTANT !!! Make the maximum you can do. Doing everything but bad is not as good as doing less but properly !
+IMPORTANT !!! Make the maximum. Doing everything but bad is not as good as doing less but properly !
 
 The evaluation of your project will also be influenced by how much you are able to create an **esthetically pleasing** & **easy-to-use** platform.
 

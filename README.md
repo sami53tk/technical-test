@@ -14,7 +14,7 @@ Any of your data will be stored in a **database**, which will be connected to yo
 
 - Users shall be able to create an account and log in to this account (Authentication system)
 - Users shall be able to log out
-- Users shall be authenticated to manage their list
+- Users shall be authenticated to manage their list (use de `providers.json` file provided`)
 - Users shall be able to add or remove providers from their list of favourites ones
 
 ### Non-functional specifications

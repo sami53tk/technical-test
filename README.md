@@ -19,7 +19,7 @@ All of your data will be stored in a **database**, which will be connected to yo
 
 ### Non-functional specifications
 
-- You are strongly encouraged to use **React / Next.JS** as a framework to create your front-end application and ChakraUI for CSS and component styling
+- You are strongly encouraged to use **React / Next.JS** as a framework to create your front-end application and **ChakraUI* for CSS and component styling
 - You are strongly encouraged to use **Typescript** and **NestJS** to develop your back-end server
 
 ## Delivery

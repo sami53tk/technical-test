@@ -1,10 +1,10 @@
 # Full-stack developer - Technical Test
 
-Hello developer ! Your profile kept our interest and we want to evaluate your skills through this technical test dedicated for this applications at the position of full-stack developer at Glowme.
+Hello developer ! Your profile kept our interest and we want to evaluate your skills through this technical test dedicated for your application at the position of full-stack developer at Glowme.
 
 ## Subject
 
-You will to create a web application where the users can manage their list of their favourites service providers.
+You will have to create a web application where the users can manage their list of their favourites service providers.
 
 You have to create both front-end application & back-end server.
 

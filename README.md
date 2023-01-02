@@ -41,7 +41,7 @@ IMPORTANT !!! Make the maximum. Doing everything but bad is not as good as doing
 
 The evaluation of your project will also be influenced by how much you are able to create an **esthetically pleasing** & **easy-to-use** platform.
 
-Every other **features** or **bonuses** implemented **will taken into consideration** in the evaluation of your project.
+Every other **features** or **bonuses** implemented **will be taken into consideration** in the evaluation of your project.
 
 
 Good luck !

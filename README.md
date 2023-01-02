@@ -8,7 +8,7 @@ You will have to create a web application where the users can manage their list 
 
 You have to create both front-end application & back-end server.
 
-Any of your data will be stored in a **database**, which will be connected to your back-end.
+All of your data will be stored in a **database**, which will be connected to your back-end.
 
 ### Functional requirements
 

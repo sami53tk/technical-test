@@ -42,5 +42,44 @@ Sortie
 Un entier correspondant au montant gagné lors de votre pari. Si vous ne gagnez rien, renvoyez la chaîne de caractères KO.
 ```
 
-You can find some in this [folder]() input & output examples to test your code.
+You can find some in this [folder](https://github.com/GlowmeFR/technical-test/tree/main/logical-problem) input & output examples to test your code.
 
+
+##  Mini-Project
+
+For this part you can choose to do either a web application using React or an API using Express. You are recommended to use TypeScript but JavaScript is okay.
+
+### Choice 1: Web application
+
+You have to create a counter app: 
+
+
+- The counter should be initialized at 0
+- You will be able to increase and decrease the counter using 2 buttons
+
+You are free to use CSS, SCSS or CSS Frameworks to beautify your application.
+
+
+### Choice 2: API
+
+You have to create an API containing 3 endpoints:
+
+- GET `/hello`: Return `Hello world` with status code `200`
+- POST `/repeat-cat-name`:
+    - Returns the message given in the body of the request
+    - If the body is empty
+        - Set Status `400`
+        - Return Bad Request
+- PUT `/repeat-header`:
+    - Returns the value of the the header `X-Message`
+    - If the header is empty
+        - Set Status `400`
+        - Return Bad Request
+
+> To test your routes, you can use [Insomnia](https://insomnia.rest/) or [Postman](https://www.postman.com/)
+
+Have fun ;-)
+
+## Authors
+
+- [Pr0m3th3usEx - Thomas Michel](https://github.com/pr0m3th3usEx)

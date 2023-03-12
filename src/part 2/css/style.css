@@ -1,0 +1,13 @@
+button {
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+    border: none;
+    background-color: #ddd;
+    margin-right: 0.5rem;
+  }
+
+  #count {
+    font-size: 2rem;
+    margin-top: 2rem;
+  }

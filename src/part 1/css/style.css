@@ -1,19 +1,57 @@
+.container {
+  position: relative;
+  padding-right: 200px;
+}
+.aside-container {
+    flex-grow: 1;
+display: flex;
+flex-direction: column;
+align-items: center;
+position: absolute;
+margin-top: 130px;
+margin-right: 70px;
+width: 400px;
+height: 400px;
+top: 0;
+right: 0;
+} 
+
+.aside-left {
+    flex-grow: 1;
+
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  margin-top: 50px;
+  width: 400px;
+  height: 400px;
+  top: 0;
+  left: 0;
+  } 
+
 #divPrincipal{
+  flex-grow: 1;
+
     display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 70px;
 }
+
 button {
     font-size: 1.2rem;
     padding: 0.5rem;
     border-radius: 0.3rem;
     border: none;
+    margin-left: 170px;
     background-color: #ddd;
     margin-right: 0.5rem;
   }
 
  textarea{
     margin-top: 15px;
+    margin-left: 170px;
     width: 50%;
     opacity: 0.8;
 }
